@@ -6,8 +6,6 @@ My primary expertise lies in software testing, DevOps, and web development.
 
 In my free time, I like to go for runs, play or watch sports (especially Basketball and F1), grab food with friends, or spend time with my wife, Sophia. 
 
-I am currently looking for new grad opportunities in software engineering starting May 2022.
-
 Technical Skills:
 - **Languages:** Java, Python, JavaScript, C, C#, SQL, Bash, HTML, CSS, MATLAB, LaTeX
 - **Frameworks:** Spring, Nodejs, React
