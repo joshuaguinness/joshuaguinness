@@ -2,7 +2,7 @@
 
 I am a hardworking and curious software engineering and management student who brings integrity, leadership, communication, and initiative to every project or team.
 
-My primary expertise lies in software testing, DevOps, and web development.
+My primary expertise lies in web development, software testing, and DevOps.
 
 In my free time, I like to go for runs, play or watch sports (especially Basketball and F1), grab food with friends, or spend time with my wife, Sophia. 
 
