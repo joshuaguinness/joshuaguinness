@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Joshua Guinness
 
-I am a hardworking and curious software engineering and management student who brings integrity, leadership, communication, and initiative to every project or team.
+I am a hardworking and curious software engineer who brings integrity, leadership, communication, and initiative to every project or team.
+
+I am currently a **Software Development Engineer @ Amazon**. I am also a graduate of McMaster's Software Engineering & Management program.
 
 My primary expertise lies in web development, software testing, and DevOps.
 
