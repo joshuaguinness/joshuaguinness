@@ -9,10 +9,11 @@ My primary expertise lies in web development, software testing, and DevOps.
 In my free time, I like to go for runs, play or watch sports (especially Basketball and F1), grab food with friends, or spend time with my wife, Sophia. 
 
 Technical Skills:
-- **Languages:** Java, Python, JavaScript, C, C#, Dart, SQL, Bash, HTML, CSS, MATLAB, LaTeX
+- **Languages:** Java, Python, JavaScript, Scala, Dart, C, C#, Dart, SQL, Bash, HTML, CSS, MATLAB, LaTeX
 - **Frameworks:** Spring, Nodejs, React, Flutter
 - **Testing:** Jest, SuperTest, JUnit, Spock, Citrus, Cucumber, pytest, Selenium
-- **Technologies & Tools:** Git, Gradle, React Router, OpenAPI 3, Firebase
+- **Technologies & Tools:** Git, Gradle, React Router, OpenAPI 3, F
+- **Cloud:** Cloudwatch, API Gateway, Lambda, DynamoDB EC2, CloudFormation, Google Firebase
 
 Please check out my [LinkedIn](https://www.linkedin.com/in/joshua-guinness/) profile to learn more about me. :)
 
