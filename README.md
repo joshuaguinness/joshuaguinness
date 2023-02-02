@@ -1,10 +1,14 @@
 ### Hi there 👋, my name is Joshua Guinness
 
+Currently looking for Software Engineering/Developer roles in Sydney, Australia, or Remote 🌏. I recently relocated to Sydney as my wife is pursuing medical school at Macquarie. I have full work authorization through my visa and do not require sponsorship. Please reach out if you have, or know of an opportunity.
+
+-----
+
 I am a hardworking and curious software engineer who brings integrity, leadership, communication, and initiative to every project or team.
 
-I am currently a **Software Development Engineer @ Amazon**. I am also a graduate of McMaster's Software Engineering & Management program.
+I was most recently a **Software Development Engineer @ Amazon**. I am also a graduate of McMaster's Software Engineering & Management program.
 
-My primary expertise lies in web development, software testing, and DevOps.
+My primary expertise lies in building full stack web applications in Java, Python, React on AWS. I also have experience in software testing, DevOps, and a variety of other languages, frameworks, and technologies.
 
 In my free time, I like to go for runs, play or watch sports (especially Basketball and F1), grab food with friends, or spend time with my wife, Sophia. 
 
